@@ -22,6 +22,7 @@
     'depends': ['base', 'contacts'],
     
     'data': [
+     'data/res_bank.xml',
              
     ],
 
