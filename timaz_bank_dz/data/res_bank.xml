@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+    <data noupdate="1">
+
+        <record id='bna_bank' model='res.bank'>
+            <field name='name'>Banque Nationale d'Algérie</field>
+            <field name='bic'>001</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='bea_bank' model='res.bank'>
+            <field name='name'>Banque Exterieur d'Algérie</field>
+            <field name='bic'>002</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='badr_bank' model='res.bank'>
+            <field name='name'>Banque de l'Agriculture et du Développement Rural</field>
+            <field name='bic'>003</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='cpa_bank' model='res.bank'>
+            <field name='name'>Crédit Populaire d'Algérie</field>
+            <field name='bic'>004</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='bdl_bank' model='res.bank'>
+            <field name='name'>Banque du Développement Local</field>
+            <field name='bic'>005</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='baraka_bank' model='res.bank'>
+            <field name='name'>Al Baraka</field>
+            <field name='bic'>006</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='ccp_bank' model='res.bank'>
+            <field name='name'>Centre des Chèques Postaux</field>
+            <field name='bic'>007</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='tc_bank' model='res.bank'>
+            <field name='name'>Trésor central</field>
+            <field name='bic'>008</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='cnma_bank' model='res.bank'>
+            <field name='name'>CNMA</field>
+            <field name='bic'>010</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='cnep_bank' model='res.bank'>
+            <field name='name'>CNEP</field>
+            <field name='bic'>011</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='city_bank' model='res.bank'>
+            <field name='name'>CITY BANK</field>
+            <field name='bic'>012</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='abc_corp_bank' model='res.bank'>
+            <field name='name'>A B C CORP</field>
+            <field name='bic'>014</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='natexis_bank' model='res.bank'>
+            <field name='name'>NATEXIS</field>
+            <field name='bic'>020</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='sga_bank' model='res.bank'>
+            <field name='name'>SOCIÉTÉ GÉNÉRALE ALGÉRIE</field>
+            <field name='bic'>2021</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='arab_bank' model='res.bank'>
+            <field name='name'>Arab Bank</field>
+            <field name='bic'>026</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='bnp_bank' model='res.bank'>
+            <field name='name'>B N P</field>
+            <field name='bic'>027</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='trust_bank' model='res.bank'>
+            <field name='name'>TRUST BANK</field>
+            <field name='bic'>029</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='hba_bank' model='res.bank'>
+            <field name='name'>Housing Bank Algérie</field>
+            <field name='bic'>031</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='gba_bank' model='res.bank'>
+            <field name='name'>Gulf Bank Algérie</field>
+            <field name='bic'>032</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='fransabank_bank' model='res.bank'>
+            <field name='name'>Fransabank</field>
+            <field name='bic'>035</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='calyon_bank' model='res.bank'>
+            <field name='name'>CALYON</field>
+            <field name='bic'>036</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='hsbc_bank' model='res.bank'>
+            <field name='name'>HSBC Algérie</field>
+            <field name='bic'>037</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='alsalam_bank' model='res.bank'>
+            <field name='name'>AL SALAM BANK Algérie</field>
+            <field name='bic'>038</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        <record id='dz_bank' model='res.bank'>
+            <field name='name'>Banque d'Algérie</field>
+            <field name='bic'>111</field>
+            <field name="country_id" ref="base.dz"/>
+        </record>
+        
+
+
+    </data>
+</odoo>
