@@ -15,7 +15,7 @@
 
 
     "license": "LGPL-3",
-    "price": 9.0,
+    "price": 5.0,
     "currency": 'EUR',
 
     
